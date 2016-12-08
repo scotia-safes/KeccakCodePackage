@@ -49,6 +49,8 @@ This file uses UTF-8 encoding, as some comments use Greek letters.
 ================================================================
 */
 
+#include "Keccak-readable-and-compact.h"
+
 /**
   * Function to compute the Keccak[r, c] sponge function over a given input.
   * @param  rate            The value of the rate r.
